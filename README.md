@@ -28,5 +28,5 @@ After being mentored for three years within my company, I transitioned into the 
 
 ### **Stats:** 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliaberning&show_icons=true&include_all_commits=false&count_private=true&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=AED9B2&bg_color=FFFFFF" alt="Juli's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaberning&layout=compact&include_all_commits=false&count_private=true&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=CCE2CB&bg_color=FFFFFF" alt="Juli's languages"/> |
+| <img align="center" src="https://github-readme-stats-juliabernings-projects.vercel.app/api?username=juliaberning&show_icons=true&include_all_commits=false&count_private=true&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=AED9B2&bg_color=FFFFFF" alt="Juli's github stats" /> | <img align="center" src="https://github-readme-stats-juliabernings-projects.vercel.app/api/top-langs/?username=juliaberning&layout=compact&include_all_commits=false&count_private=true&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=CCE2CB&bg_color=FFFFFF" alt="Juli's languages"/> |
 | ------------- | ------------- |
