@@ -4,9 +4,9 @@ Hello! My name is Julia Berning, and I’m an entry-level Software Engineer. I o
 
 After being mentored for three years within my company, I transitioned into the Software team, where I now work as an entry-level full-stack software engineer.
 
-- 🍃 **Currently working on:** [Synthesis](https://synthesis.notco.ai/), a platform for data analysis and optimization
-- ☂️ **Tech Stack Focus:** Vue.js & FastAPI
-- 🌸 **Goals:** Continuously learn, grow my skills, and contribute actively to the dev community
+- 🍃 **Currently working on:** [Synthesis](https://synthesis.notco.ai/), a platform for data analysis and formula optimization.
+- ☂️ **Tech Stack Focus:** Vue.js & FastAPI.
+- 🌸 **Goals:** Continuously learn, grow my skills, and contribute actively to the dev community.
 
 
 ### **Stack (Beginner level):** 
@@ -24,9 +24,3 @@ After being mentored for three years within my company, I transitioned into the 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social&logoColor=E4A0B7)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social&logoColor=E4A0B7)&nbsp;&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?logo=latex&style=social&logoColor=E4A0B7)&nbsp;&nbsp;
-
-
-### **Stats:** 
-
-| <img align="center" src="https://github-readme-stats-juliabernings-projects.vercel.app/api?username=juliaberning&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=1800&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=AED9B2&bg_color=FFFFFF" alt="Juli's github stats" /> | <img align="center" src="https://github-readme-stats-juliabernings-projects.vercel.app/api/top-langs/?username=juliaberning&layout=compact&include_all_commits=false&count_private=true&cache_seconds=1800&theme=buefy&hide_border=true&title_color=BEA9DF&text_color=434D58&icon_color=CCE2CB&bg_color=FFFFFF" alt="Juli's languages"/> |
-| ------------- | ------------- |
