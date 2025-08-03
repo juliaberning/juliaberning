@@ -4,7 +4,7 @@ Hello! My name is Julia Berning, and I’m an entry-level Software Engineer. I o
 
 After being mentored for three years within my company, I transitioned into the Software team, where I now work as an entry-level full-stack software engineer.
 
-- 🍃 **Currently working on:** [Synthesis](https://synthesis.notco.ai/), a platform for data analysis and formula optimization.
+- 🍃 **Currently working on:** [Elevate](https://notco.ai/elevate/), a platform for data analysis and formula optimization.
 - ☂️ **Tech Stack Focus:** Vue.js & FastAPI.
 - 🌸 **Goals:** Continuously learn, grow my skills, and contribute actively to the dev community.
 
@@ -12,8 +12,9 @@ After being mentored for three years within my company, I transitioned into the 
 ### **Stack (Entry-level):** 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social&logoColor=AED9B2)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social&logoColor=AED9B2)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css&style=social&logoColor=AED9B2)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social&logoColor=AED9B2)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social&logoColor=AED9B2)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social&logoColor=AED9B2)&nbsp;&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social&logoColor=BEA9DF)&nbsp;&nbsp;
